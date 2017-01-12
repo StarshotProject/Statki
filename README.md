@@ -1,2 +1,0 @@
-# Statki
-Gra w statki
